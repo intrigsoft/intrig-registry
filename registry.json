@@ -10,5 +10,18 @@
         }
       }
     }
+  },
+  {
+    "type": "generator",
+    "generator": "react",
+    "name" : "@intrig/plugin-next",
+    "compat": {
+      "latest": {
+        "dependencies": {
+          "react": "18.0.0+",
+          "next": "14.0.0+"
+        }
+      }
+    }
   }
 ]
